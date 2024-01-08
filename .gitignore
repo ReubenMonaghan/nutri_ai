@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+.venv/bin
+nutri_ai/nutri_ai/.env
+.idea
